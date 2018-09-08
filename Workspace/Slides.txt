@@ -1,0 +1,5 @@
+Download the slides at https://is.gd/html_hackerschool_2018
+
+https://developer.mozilla.org/en-US/docs/Web/HTML
+
+https://getbootstrap.com/docs/4.1/getting-started/introduction/#starter-template
